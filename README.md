@@ -2,7 +2,7 @@
 
 **Google Colab link:** https://colab.research.google.com/drive/1hADA9byUK2AXHSouetkDIX6VStdotMha
 
-** Dataset Link:** https://www.kaggle.com/datasets/kazanova/sentiment140
+**Dataset Link:** https://www.kaggle.com/datasets/kazanova/sentiment140
 
 This notebook performs sentiment analysis on a dataset of tweets. The goal is to classify tweets as either positive, negative, or neutral.
 
